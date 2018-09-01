@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FebApi", "FebApi.fsproj", "{EF470DFE-4716-4118-817B-55D0CB08BF6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF470DFE-4716-4118-817B-55D0CB08BF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF470DFE-4716-4118-817B-55D0CB08BF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF470DFE-4716-4118-817B-55D0CB08BF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF470DFE-4716-4118-817B-55D0CB08BF6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0CE156A-44D6-44BD-91E9-0E0CEC26E1EC}
+	EndGlobalSection
+EndGlobal
